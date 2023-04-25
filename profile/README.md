@@ -4,7 +4,7 @@
 
 * 🙋‍♀️ Basic Ticketing
 * 🌈 Frontend web app for ticketing
-* 👩‍💻 Generate API keys for users for external developer integrations
+* 👩‍💻 Generate API keys for users and SDK for external developer integrations
 * 🍿 Stripe integration to accept payments
 * 🧙 Custom iframe for external websites and webhooks similar to plaid
 
